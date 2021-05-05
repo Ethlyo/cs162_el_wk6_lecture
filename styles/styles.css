@@ -52,7 +52,7 @@ footer{
 .col-1 ul li{
 }
 
-.col-1 ul li:hover{
+.col-1 ul li a:hover{
     background-color: dimgray;
 }
 
