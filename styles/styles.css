@@ -45,6 +45,11 @@ header h1{
     width: 20%;
 }
 
+[class*="col-"]{
+    float: left;
+    padding: 15 px;
+}
+
 .side-info{
 
 }
