@@ -1,0 +1,14 @@
+html{
+    font-family:sans-serif
+}
+
+header{
+    height: 200px;
+    background-color: cadetblue
+}
+
+header h1{
+    /*width: 100%;
+    width: 5vw; //to do: fix size of container"
+    text-allign: center;
+}
